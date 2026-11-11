@@ -1,3 +1,5 @@
+> **This gem is no longer needed.** Flash messages have been built into Padrino itself (padrino-core) since Padrino 0.11: every Padrino application has `flash` (with `flash.now` and `flash.keep`) once sessions are enabled, without adding this gem. This repository is kept for reference and is no longer maintained.
+
 ### Overview
 
 Padrino Flash is a plugin for the [Padrino](https://github.com/padrino/padrino-framework) web framework which adds support for [Rails](https://github.com/rails/rails) like flash messages.
